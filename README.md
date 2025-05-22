@@ -1,4 +1,5 @@
 # City Bike Rental Demand Analysis
+![Cityscape](https://https://unsplash.com/photos/a-row-of-bikes-parked-next-to-each-other-eNMz98yly4k)
 
 This repository contains the analysis of a city bike-sharing system's rental data, exploring the factors that influence rental demand. The project aims to provide insights and recommendations to optimize operations and improve user satisfaction.
 
